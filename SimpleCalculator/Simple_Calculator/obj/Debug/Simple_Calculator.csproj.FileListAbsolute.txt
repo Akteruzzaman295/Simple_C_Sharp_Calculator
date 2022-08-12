@@ -1,0 +1,10 @@
+C:\Users\akter\source\repos\C_sharp_Practice\Simple_Calculator\bin\Debug\Simple_Calculator.exe.config
+C:\Users\akter\source\repos\C_sharp_Practice\Simple_Calculator\bin\Debug\Simple_Calculator.exe
+C:\Users\akter\source\repos\C_sharp_Practice\Simple_Calculator\bin\Debug\Simple_Calculator.pdb
+C:\Users\akter\source\repos\C_sharp_Practice\Simple_Calculator\obj\Debug\Simple_Calculator.csproj.AssemblyReference.cache
+C:\Users\akter\source\repos\C_sharp_Practice\Simple_Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+C:\Users\akter\source\repos\C_sharp_Practice\Simple_Calculator\obj\Debug\Simple_Calculator.csproj.GenerateResource.cache
+C:\Users\akter\source\repos\C_sharp_Practice\Simple_Calculator\obj\Debug\Simple_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\akter\source\repos\C_sharp_Practice\Simple_Calculator\obj\Debug\Simple_Calculator.exe
+C:\Users\akter\source\repos\C_sharp_Practice\Simple_Calculator\obj\Debug\Simple_Calculator.pdb
+C:\Users\akter\source\repos\C_sharp_Practice\Simple_Calculator\obj\Debug\Simple_Calculator.Form1.resources
